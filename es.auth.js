@@ -8,7 +8,7 @@ var language = {
 
   login: 'Iniciar sesión',
 
-  id: 'Email <em>o nombre de usuario</em>',
+  id: 'Email o nombre de usuario',
   password: 'Contraseña',
   forgot: '¿Te olvidaste?',
 
@@ -16,7 +16,7 @@ var language = {
   notify: 'Notificarme nuevas actualizaciones',
   auth_failed: 'Nombre de usuario o contraseña inválidos',
   invalid: 'Valor no válido',
-  terms: 'Adhiero a los <a>términos del servicio</a>.',
+  terms: 'Adhiero a los términos del servicio',
 
 
   minlength: 'Escribe {n} caracteres o más',
@@ -30,7 +30,7 @@ var language = {
 
   email: 'Email',
   email_tip: 'Tu email nunca será compartido.',
-  email_done: 'Enviaresmos una confirmación',
+  email_done: 'Enviaremos una confirmación',
   email_fail: 'Dirección de email inválida',
   email_taken: 'Este email está ocupado',
 
