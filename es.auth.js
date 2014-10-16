@@ -8,7 +8,7 @@ var language = {
 
   login: 'Iniciar sesión',
 
-  id: 'Email <em>o nombre de usuario</em>',
+  id: 'Email <em>o Nombre de usuario</em>',
   password: 'Contraseña',
   forgot: '¿Te olvidaste?',
 
@@ -16,7 +16,7 @@ var language = {
   notify: 'Notificarme nuevas actualizaciones',
   auth_failed: 'Nombre de usuario o contraseña inválidos',
   invalid: 'Valor no válido',
-  terms: 'Adhiero a los <a>términos del servicio</a>.',
+  terms: 'Me adhiero a los <a>términos del servicio</a>.',
 
 
   minlength: 'Escribe {n} caracteres o más',
@@ -30,18 +30,18 @@ var language = {
 
   email: 'Email',
   email_tip: 'Tu email nunca será compartido.',
-  email_done: 'Enviaresmos una confirmación',
+  email_done: 'Enviaremos una confirmación',
   email_fail: 'Dirección de email inválida',
   email_taken: 'Este email está ocupado',
 
 
   reset: 'Restablecer la contraseña',
   resetbtn: 'Enviar instrucciones',
-  sent: 'Hemos enviado instrucciones para reestablecer la contraseña a tu dirección de email.',
-  sent1: 'Si no recibes un email en un minuto o dos, revisa tu carpeta de spam.',
+  sent: 'Hemos enviado instrucciones para restablecer la contraseña a tu dirección de email.',
+  sent1: 'Si no recibes un email en un minuto o dos, revisa tu carpeta de Correo no deseado.',
   notfound: 'No se pudo encontrar este usuario',
   invalidpw: 'Contraseña inválida',
-  passtip: '6 letras o más, sé listo',
+  passtip: '6 caracteres o más, sé listo',
   oldpw: 'Antigua contraseña',
   newpw: 'Nueva contraseña',
   changepw: 'Cambiar contraseña'
